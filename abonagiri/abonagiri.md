@@ -11,4 +11,4 @@
 - Bachelors Degree in Electronics
 - Interested in autonomous driving systems.
 ## Project Links:
-- Links to your SEA:ME repositories.
+
